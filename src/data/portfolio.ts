@@ -11,8 +11,8 @@ export const profile = {
   initials: "AAJ",
   summary:
     "Associate Software Development Engineer at Publicis Sapient with 1.7 years of experience in full-stack development using ReactJS, Spring Boot, Jenkins, and Docker. Experienced in CI/CD pipelines, containerization, and scalable web applications. Contributed to backend API development, frontend engineering, and cloud deployment. Led an AI-driven malware detection project, strengthening expertise in cybersecurity, machine learning, and data analytics. Thrive in dynamic environments with strong problem-solving, adaptability, and collaboration skills. Experienced in building scalable microservices, secure authentication systems, monitoring solutions, and production-ready deployments on AWS and GCP.",
-  resumePath: "/resume/AditiJadhav_Resume.pdf",
-  resumeFileName: "AditiJadhav_Resume.pdf",
+  resumePath: "/resume/AditiJadhav-Resume.pdf",
+  resumeFileName: "AditiJadhav-Resume.pdf",
 };
 
 export const skillGroups = [
