@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script type="module">import { injectIntoGlobalHook } from "/@react-refresh";
+injectIntoGlobalHook(window);
+window.$RefreshReg$ = () => {};
+window.$RefreshSig$ = () => (type) => type;</script>
+
+    <script type="module" src="/@vite/client"></script>
+
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aditi Anand Jadhav | Full Stack Developer | CI/CD | AWS/GCP</title>
+    <meta
+      name="description"
+      content="Associate SDE at Publicis Sapient. Full-stack developer specializing in React, Spring Boot, CI/CD, AWS, and GCP. Download resume."
+    />
+    <meta property="og:title" content="Aditi Anand Jadhav — Full Stack Developer" />
+    <meta
+      property="og:description"
+      content="React, Spring Boot, Docker, AWS/GCP. View experience, projects, certifications, and download resume."
+    />
+    <meta property="og:type" content="website" />
+    <meta name="theme-color" content="#0b1220" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx?t=1782581985045"></script>
+  </body>
+</html>
