@@ -9,6 +9,8 @@ export const profile = {
   photoPath: import.meta.env.BASE_URL + "images/IMG_0508.jpeg",
 
   initials: "AAJ",
+  heroSummary:
+    "Associate Software Development Engineer at Publicis Sapient with 1.7 years of experience in full‑stack development. Skilled in CI/CD, containerization, cloud platforms (AWS, GCP), Kubernetes, and AI/ML projects. Open to work and actively seeking new opportunities in cloud engineering (DevOps) and AI, while continuously learning and exploring emerging technologies.",
   summary:
     "Associate Software Development Engineer at Publicis Sapient with 1.7 years of experience in full‑stack development using ReactJS, Spring Boot, Jenkins, and Docker. Skilled in CI/CD pipelines, containerization, and scalable web applications. Hands‑on experience with cloud platforms including GCP and AWS, Kubernetes orchestration, and production‑ready deployments. Contributed to backend API development, frontend engineering, and cloud deployment, while also leading AI‑driven projects in malware detection, computer vision, and machine learning. Currently open to work and ready for new opportunities — eager to apply expertise in full‑stack engineering, cloud technologies, DevOps, and AI to impactful projects.",
   resumePath: import.meta.env.BASE_URL + "resume/AditiJadhav-Resume.pdf",

@@ -29,7 +29,7 @@ export function Hero() {
             <span aria-hidden="true">·</span>
             <span>1.6+ years</span>
           </p>
-          <p className="hero-summary">{profile.summary.slice(0, 300)}…</p>
+          <p className="hero-summary">{profile.heroSummary}</p>
 
           <div className="hero-actions">
             <a
