@@ -7,7 +7,7 @@ export const profile = {
   linkedin: "https://www.linkedin.com/in/aditi-jadhav-6025b6158/",
   //photoPath: "/images/IMG_0508.jpeg",
   photoPath: import.meta.env.BASE_URL + "images/IMG_0508.jpeg",
-  
+
   initials: "AAJ",
   summary:
     "Associate Software Development Engineer at Publicis Sapient with 1.7 years of experience in full-stack development using ReactJS, Spring Boot, Jenkins, and Docker. Experienced in CI/CD pipelines, containerization, and scalable web applications. Contributed to backend API development, frontend engineering, and cloud deployment. Led an AI-driven malware detection project, strengthening expertise in cybersecurity, machine learning, and data analytics. Thrive in dynamic environments with strong problem-solving, adaptability, and collaboration skills. Experienced in building scalable microservices, secure authentication systems, monitoring solutions, and production-ready deployments on AWS and GCP.",
@@ -232,6 +232,7 @@ export const certifications = [
   { name: "AWS Partner Accreditation (Technical)", issuer: "AWS", date: "Feb 2025" },
   { name: "Cloud Computing Program", issuer: "IIT Bhubaneswar", date: "May 2022" },
   { name: "Web Development Program", issuer: "IIT Bombay", date: "Feb 2022" },
+  { name: "Certificate of Completion — Figma Workshop", issuer: "Figma", date: "2025" },
 ];
 
 export const navLinks = [
