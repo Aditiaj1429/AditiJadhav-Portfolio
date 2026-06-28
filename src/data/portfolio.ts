@@ -4,9 +4,10 @@ export const profile = {
   title: "Full Stack Developer — CI/CD — Cloud Engineer (AWS/GCP)",
   location: "Gurgaon, India",
   email: "aditiaj100@gmail.com",
-  phone: "+91 9322459002",
   linkedin: "https://www.linkedin.com/in/aditi-jadhav-6025b6158/",
-  photoPath: "/images/IMG_0508.jpeg",
+  //photoPath: "/images/IMG_0508.jpeg",
+  photoPath: import.meta.env.BASE_URL + "images/IMG_0508.jpeg",
+  
   initials: "AAJ",
   summary:
     "Associate Software Development Engineer at Publicis Sapient with 1.7 years of experience in full-stack development using ReactJS, Spring Boot, Jenkins, and Docker. Experienced in CI/CD pipelines, containerization, and scalable web applications. Contributed to backend API development, frontend engineering, and cloud deployment. Led an AI-driven malware detection project, strengthening expertise in cybersecurity, machine learning, and data analytics. Thrive in dynamic environments with strong problem-solving, adaptability, and collaboration skills. Experienced in building scalable microservices, secure authentication systems, monitoring solutions, and production-ready deployments on AWS and GCP.",
