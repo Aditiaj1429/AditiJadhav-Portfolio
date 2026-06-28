@@ -5,9 +5,6 @@
   "type": "module",
   "homepage": "https://aditiaj1429.github.io/AditiJadhav-Portfolio",
   "scripts": {
-    "generate:resume": "node scripts/generate-resume.mjs",
-    "predev": "npm run generate:resume",
-    "prebuild": "npm run generate:resume",
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "oxlint",
