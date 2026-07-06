@@ -171,7 +171,7 @@ export const experience: ExperienceItem[] = [
     company: "Publicis Sapient",
     role: "Associate Software Development Engineer 1",
     project: "Economic Crime Prevention Platform (Lloyds Bank)",
-    period: "Apr 2025 – Jul 2025",
+    period: "Apr 2025 – Sep 2025",
     highlights: [
       "Contributed to the development and quality assurance of a cloud-based Economic Crime Prevention platform using Playwright, TypeScript, and BDD practices.",
       "Implemented and maintained Jenkins CI/CD pipelines to automate build, test, and deployment workflows, improving release efficiency and consistency.",
