@@ -99,7 +99,7 @@ export const experience: ExperienceItem[] = [
     company: "Publicis Sapient",
     role: "Associate Software Development Engineer 1",
     project: "Photo Intelligence System — AI-Powered Image Analysis Platform",
-    period: "Present",
+    period: "Feb 2026- July 2026",
     location: "On-Site",
     highlights: [
       "Built a multimodal photo intelligence system to filter valid photos, remove near-duplicates, detect blur and quality issues, and organize images based on people, events, and contextual information.",
@@ -263,6 +263,8 @@ export const education = [
 ];
 
 export const certifications = [
+  { name: "AWS Certified AI Practitioner", issuer: "AWS", date: "August 2026" },
+  { name: "AWS Certified Cloud Practitioner", issuer: "AWS", date: "July 2026" },
   { name: "Google Cloud Digital Leader", issuer: "Google Cloud", date: "July 2025" },
   { name: "AWS Partner Accreditation (Technical)", issuer: "AWS", date: "Feb 2025" },
   { name: "Cloud Computing Program", issuer: "IIT Bhubaneswar", date: "May 2022" },
